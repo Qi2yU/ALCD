@@ -1,0 +1,6 @@
+﻿  Assembling sokoban.asm...
+sokoban.asm(149): warning A6004: procedure argument or local not referenced : hPrevInst
+sokoban.asm(149): warning A6004: procedure argument or local not referenced : cmdLine
+  Assembling sy.asm...
+sokoban.obj : warning LNK4258: 指令“/ENTRY:main@0”与开关“/ENTRY:main”不兼容；已忽略
+  pro.vcxproj -> E:\大学杂物\汇编\汇编大作业\咸鱼寻宝记\Debug\pro.exe
